@@ -1,0 +1,258 @@
+body {
+    background-image:url(file:///C:/Users/nebiy/Downloads/pexels-pixabay-372882.jpg), url(file:///C:/Users/nebiy/Downloads/pexels-pixabay-372882.jpg);
+
+    background-repeat: no-repeat repeat;
+    background-size: 1320px 2000px;
+   background-position: top bottom;
+  }
+
+
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+.column12 {
+    margin-left: 20px;
+    float: left;
+    width: 30%;
+    background-color: rgb(177, 214, 239);
+    height: 120px;
+    border: solid  rgb(0, 0, 0);
+    border-radius: 5px;
+  }
+  
+  /* Clear floats after the columns */
+  .divider1:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column12 .c1a1 {
+    margin-left: 100px;
+   color: rgb(102, 15, 119);
+   font-weight: 600;
+   font-size: 22px;
+  }
+
+  .column12 .c2a2 {
+    margin-left: 120px;
+    color: rgb(102, 15, 119);
+   font-weight: 600;
+   font-size: 22px;
+  }
+
+  .column12 .c3a3 {
+    margin-left: 130px;
+    color: rgb(102, 15, 119);
+   font-weight: 600;
+   font-size: 22px;
+  }
+
+
+/*Heading Below*/
+
+
+
+.imdiv {
+    float: left;
+    
+}
+
+
+
+.diva {
+   
+    margin-left: 400px;
+display: inline;
+word-spacing: 30px;
+
+padding-left: 10px;
+padding-right: 10px;
+font-size: 20px;
+
+}
+
+.diva a {
+    box-shadow: 3px;
+    text-decoration: none;
+    color: rgb(77, 166, 255);
+   font-weight: 40px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(20, 255, 126);
+box-shadow:antiquewhite;
+border: 2px solid ;
+border-radius: 7px right;
+}
+
+.quote {
+    color: rgb(169, 84, 248);
+    font-size: 20px;
+    margin-left: 370px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.aboutonly {
+  float: left;  
+  color: rgb(0, 30, 55);
+  background-color: rgb(255, 234, 74);
+  width: 30%;
+  margin-left: 30px;
+  padding: 100px;
+  word-spacing: 2px;
+  font-style: italic;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.image2 {
+    width: 300px;
+    height: 540px;
+    border-radius: 5px;
+}
+.image2:hover {
+width: 315px;
+height: 550px;
+transition: .3s;
+
+overflow: hidden;
+}
+
+.image3 {
+    width: 300px;
+    height: 540px;
+    border-radius: 5px;
+}
+
+.image3:hover {
+    width: 310px;
+    height: 550px;
+    transition: .3s;
+    overflow: hidden;
+    }
+
+
+    
+
+    
+
+    .specialdishes::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+
+    .specialdishes {
+      position: relative;
+      
+    }
+
+
+    
+    
+    /* Bottom left text */
+    .bottom-1 {
+      position: absolute;
+      bottom: 8px;
+      left: 27px;
+      font-size: 27px;
+      color:rgb(255, 255, 255);
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+
+    .bottom-2 {
+ position: absolute;
+ bottom: 8px;
+ left: 350px;
+ font-size: 27px;
+ color: rgb(255, 255, 255);
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    .bottom-3 {
+      position: absolute;
+ bottom: 8px;
+ left: 650px;
+ font-size: 24px;
+ color:rgb(255, 255, 255);
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+    }
+
+    .bottom-4 {
+      position: absolute;
+ bottom: 8px;
+ left: 970px;
+ font-size: 24px;
+ color: rgb(255, 255, 255);
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    
+    .firstdish img {
+      
+
+      float: left;  
+      width: 23%;
+      margin-left: 15px;
+      transition:  .5s;
+
+    }
+
+    .firstdish img:hover {
+      opacity: .7;
+    }
+
+
+    .seconddish img  {
+      
+      float: left;  
+      width: 23%;
+      margin-left: 15px;
+      transition:  .5s;
+
+    }
+
+    .seconddish img:hover {
+      opacity: .7;
+    }
+
+
+
+    .thirddish img  {
+      
+
+      float: left;  
+      width: 23%;
+      margin-left: 15px;
+      transition:  .5s;
+    }
+
+    .thirddish img:hover {
+      opacity: .7;
+    }
+
+
+
+    .fourthdish img  {
+      
+      float: left;  
+      width: 23%;
+      margin-left: 15px;
+      transition:  .5s;
+
+    }
+
+    .fourthdish img:hover {
+      opacity: .7;
+    }
+
+
+
+    
